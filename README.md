@@ -11,6 +11,7 @@ jsp, java, mysql, bootstrap, eclipse
 ### evaluation
 - 평가 모델링
 - 글의 삭제 및 등록 처리
+- 검색 기능 
 ### user
 - 사용자 정보 모델링
 - 로그인, 회원가입, 이메일 관련 처리
