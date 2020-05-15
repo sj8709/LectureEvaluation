@@ -48,7 +48,7 @@ jsp, java, mysql, bootstrap, eclipse
 - report email send execute
 
 
-## 라이브러리
+## lib
 - javax.mail.jar
 https://javaee.github.io/javamail/#Download_JavaMail_Release
 - mysql-connector-java
