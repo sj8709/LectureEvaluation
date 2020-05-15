@@ -19,10 +19,39 @@ jsp, java, mysql, bootstrap, eclipse
 - Gamil id, pw 값 처리
 - sha256을 이용한 해싱처리
 
+## page
+### index
+- index page
+### userLogin
+- login page
+### userJoin
+- Add user page
+### userLogout
+- user Logout execute
+### userRegisterAction
+- user Register Action
+### userLoginAction
+- user login Action
+### deleteAction
+- delete Evaluation Post
+### emailSendAction
+- user emailcheck email send page
+### emailCheckAction
+- regiseted eamil check page
+### emailSendConfirm
+- unregisted eamil page
+### evaluationRegistAtion
+- evaluation post add
+### likeAction
+- add likeCount execute
+### reportAction
+- report email send execute
+
+
 ## 라이브러리
 - javax.mail.jar
 https://javaee.github.io/javamail/#Download_JavaMail_Release
 - mysql-connector-java
-https://dev.mysql.com/downloads/connector/j/5.1.html(최신버전으로)
+https://dev.mysql.com/downloads/connector/j/5.1.html (최신버전으로)
 - activation
 https://www.oracle.com/technetwork/java/javase/downloads/index-135046.html
