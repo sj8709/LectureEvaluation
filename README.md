@@ -58,6 +58,8 @@ https://javaee.github.io/javamail/#Download_JavaMail_Release
 https://dev.mysql.com/downloads/connector/j/5.1.html (최신버전으로)
 - activation
 https://www.oracle.com/technetwork/java/javase/downloads/index-135046.html
+- bootstrap -4.4.1
+https://getbootstrap.com/
 
 ## etc.
 각 페이지는 image 폴더의 screen shot을 이용해 확인 할 수 있음
